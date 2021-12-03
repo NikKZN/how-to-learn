@@ -1,0 +1,12 @@
+.video__iframes {
+  margin: 50px auto -60px;
+}
+
+.video__iframes :first-child {
+  margin-right: 20px;
+  border-style: none;
+}
+
+.video__iframes :last-child {
+  border-style: none;
+}
