@@ -4,9 +4,4 @@
 
 .video__iframes :first-child {
   margin-right: 20px;
-  border-style: none;
-}
-
-.video__iframes :last-child {
-  border-style: none;
 }

@@ -4,3 +4,8 @@
   margin: 0;
   list-style: none;
 }
+
+.resources__logo:hover {
+  opacity: .4;
+  transition: .7s;
+}
